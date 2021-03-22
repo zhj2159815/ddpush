@@ -1,0 +1,23 @@
+{
+  "name": "ddpush",
+  "version": "1.0.3",
+  "description": "push to ddtalk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhangjianblues",
+  "license": "MIT",
+  "keywords": [
+    "ddpush",
+    "ddtalk",
+    "dd",
+    "push",
+    "message"
+  ],
+  "dependencies": {
+    "async": "^3.2.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {}
+}
