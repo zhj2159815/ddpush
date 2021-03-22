@@ -25,7 +25,7 @@ exports.sendMessage = (params, callback) => {
                     },
                     at: {
                         atMobiles: params.atMobiles,
-                        isAtAll: false
+                        isAtAll: params.isAtAll
                     }
                 }
             }, fn);
